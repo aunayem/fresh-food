@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
-    font-size: 700;
+    font-size: 900;
+}
+section{
+    margin-top: 120px;
 }
 h1{
     font-size: 50px;
@@ -10,4 +13,28 @@ h1{
 }
 .grey-color{
     color: grey;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#FC8F49, #FE492E);
+    color: white;
+    font-weight: 900;
+    padding: 20px 45px;
+    border-radius: 30px;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width h1{
+    width: 80%;
+}
+.half-width h3{
+    width: 70%;
+}
+#about-pic{
+    width: 300px;
 }
