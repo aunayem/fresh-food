@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 700;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.grey-color{
+    color: grey;
+}
