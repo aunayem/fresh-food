@@ -49,3 +49,21 @@ h2{
 .text-allign{
     text-align: center;
 }
+.items {
+    display: flex;
+}
+.items .item1 {
+    width:33.33%;
+}
+.items .item1 img {
+    width:100%;
+}
+.border{
+    background-color: rgb(19, 17, 17);
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+#white-footer{
+    color: white;
+}
